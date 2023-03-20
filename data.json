@@ -1,0 +1,11 @@
+{
+  "target" : {
+    "google" : "https://google.com",
+    "yahoo" : "https://tw.yahoo.com",
+    "zoom1" : "https://zoom.com"
+  },
+  "alias" : {
+    "gooogle" : "google",
+    "zoom" : "zoom1"
+  }
+}
